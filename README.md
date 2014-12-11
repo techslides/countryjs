@@ -83,7 +83,7 @@ SOFTWARE.
 - ✔ afghanistan 
 - ✔ albania
 - ✔ algeria
-- american_samoa
+- ✔ american_samoa
 - angola
 - ✔ anguilla
 - ✔ antarctica

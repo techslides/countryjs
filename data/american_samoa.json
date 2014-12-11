@@ -8,17 +8,29 @@
   },
   "provinces": ["Eastern", "Manu'a", "Rose Island", "Swains Island", "Western"],
   "currency": {
-    "name": "",
-    "ISO": "",
-    "symbol": ""
+    "name": "United States dollar",
+    "ISO": "USD",
+    "symbol": "$"
   },
-  "flag": "",
-  "languages": [],
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
+  "languages": [{
+    "name": "English",
+    "ISO6391": "en",
+    "ISO6392": "eng",
+    "ISO6393": "eng",
+    "Linguasphere": "52-ABA"
+  }, {
+    "name": "Samoan",
+    "ISO6391": "sm",
+    "ISO6392": "smo",
+    "ISO6393": "smo",
+    "Glottolog": "samo1305"
+  }],
   "wiki": "http://en.wikipedia.org/wiki/american_samoa",
-  "callingCode": "",
-  "ioc": "",
-  "tld": [],
-  "coordinates": "",
-  "timezone": [],
+  "callingCode": "+1 684",
+  "tld": [".as"],
+  "timezone": [
+    "SST (UTC-11)"
+  ],
   "geoJSON": {}
 }
